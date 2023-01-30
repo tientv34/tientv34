@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **tientv34@gmail.com**
+- 📫 How to reach me **tvtien34@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
