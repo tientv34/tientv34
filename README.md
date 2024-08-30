@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SCHOOL**
 
-- 🌱 I’m currently learning **Java, Flutter, Nodejs**
+- 🌱 I’m currently learning **Java, C#**
 
 - 💬 Ask me about **Java**
 
